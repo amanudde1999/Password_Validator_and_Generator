@@ -1,10 +1,3 @@
-#------------------------------------------------------
-# Name: Amro Amanuddein
-# ID: 1572498
-# CMPUT274, Fall 2019
-# 
-# Weekly Exercise 1: Password Validator
-#------------------------------------------------------
 
 def validate(password): 
 # All characters are placed into different lists    
